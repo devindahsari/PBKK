@@ -1,0 +1,15 @@
+D:\Program VS2019\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.exe
+D:\Program VS2019\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.deps.json
+D:\Program VS2019\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.json
+D:\Program VS2019\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.dev.json
+D:\Program VS2019\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.dll
+D:\Program VS2019\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.pdb
+D:\Program VS2019\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.csproj.AssemblyReference.cache
+D:\Program VS2019\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.Form1.resources
+D:\Program VS2019\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.csproj.GenerateResource.cache
+D:\Program VS2019\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfoInputs.cache
+D:\Program VS2019\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfo.cs
+D:\Program VS2019\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.csproj.CoreCompileInputs.cache
+D:\Program VS2019\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.dll
+D:\Program VS2019\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.pdb
+D:\Program VS2019\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.genruntimeconfig.cache
